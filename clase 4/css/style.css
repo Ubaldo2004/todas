@@ -1,0 +1,30 @@
+div{
+    margin: 8px;
+
+}
+.edad{
+    display: inline-block;
+}
+body{
+    background-color: aquamarine;
+}
+fieldset{
+    background-color: azure;
+    border-radius: 10px;
+
+}
+button{
+    background-color: red;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+
+}
+h1{
+    color: black;
+}
+input{
+    border-radius: 10px;
+    background-color: aliceblue;
+}
